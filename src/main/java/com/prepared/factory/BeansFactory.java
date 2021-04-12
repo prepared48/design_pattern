@@ -49,7 +49,7 @@ public class BeansFactory {
                 Object[] argObjects = new Object[args.size()];
                 for (int i = 0; i < args.size(); ++i) {
                     BeanDefinition.ConstructorArg arg = args.get(i);
-                    if (!arg.getIsRef()) {
+                    if (!arg.isRef()) {
                         argClasses[i] = arg.getType();
                         argObjects[i] = arg.getArg();
                     } else {

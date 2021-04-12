@@ -9,7 +9,7 @@
         </bean>
         <bean id="redisCounter" class="com.prepared.factory.RedisCounter" scope="singleton" lazy-init="true">
             <constructor-arg type="java.lang.String" value="127.0.0.1"/>
-            <constructor-arg type="int" value="1234"/>
+            <constructor-arg type="java.lang.String" value="1234"/>
         </bean>
     </beans>
 </beans>
