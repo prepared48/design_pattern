@@ -3,8 +3,13 @@ package com.prepared.builder;
 import java.util.Objects;
 
 /**
+ * https://time.geekbang.org/column/article/199674
+ * <p>
  * 当 isRef 为 true 的时候，arg 表示 String 类型的 refBeanId，type 不需要设置；
  * 当 isRef 为 false 的时候，arg、type 都需要设置。请根据这个需求，完善 ConstructorArg 类。
+ *
+ * @author shibo_zhong
+ * @date 2021/04/13
  */
 public class ConstructorArg {
     private boolean isRef;
