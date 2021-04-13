@@ -1,4 +1,4 @@
-"# design_pattern_demo" 
+"# design_pattern" 
 
 ## 创建型
 
