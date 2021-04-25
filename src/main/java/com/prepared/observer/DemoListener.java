@@ -1,4 +1,4 @@
-package com.prepared.spring.observer;
+package com.prepared.observer;
 
 import org.springframework.context.ApplicationListener;
 import org.springframework.stereotype.Component;

@@ -1,4 +1,4 @@
-package com.prepared.spring.adapter;
+package com.prepared.adapter;
 
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.mvc.Controller;

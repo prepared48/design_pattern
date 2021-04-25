@@ -1,4 +1,4 @@
-package com.prepared.spring.observer.eventbus;
+package com.prepared.observer.eventbus;
 
 import java.util.List;
 import java.util.concurrent.Executor;

@@ -1,4 +1,4 @@
-package com.prepared.spring.adapter;
+package com.prepared.adapter;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

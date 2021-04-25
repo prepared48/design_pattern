@@ -1,4 +1,4 @@
-package com.prepared.spring.observer;
+package com.prepared.observer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;

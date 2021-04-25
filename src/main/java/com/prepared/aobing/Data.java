@@ -1,4 +1,4 @@
-package com.prepared.spring.proxy.aobing;
+package com.prepared.aobing;
 
 /**
  * @Author: zhongshibo
