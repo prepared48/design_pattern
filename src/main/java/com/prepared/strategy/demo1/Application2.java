@@ -1,4 +1,4 @@
-package com.prepared.strategy;
+package com.prepared.strategy.demo1;
 
 /**
  * 非运行时动态确定，在代码中指定使用哪种策略

@@ -1,4 +1,4 @@
-package com.prepared.strategy;
+package com.prepared.strategy.demo1;
 
 /**
  * @Author: zhongshibo

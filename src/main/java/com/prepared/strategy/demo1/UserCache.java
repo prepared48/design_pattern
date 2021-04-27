@@ -1,4 +1,4 @@
-package com.prepared.strategy;
+package com.prepared.strategy.demo1;
 
 import java.util.HashMap;
 import java.util.Map;

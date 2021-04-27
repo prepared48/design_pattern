@@ -4,6 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * 使用工厂模式 创建策略
+ *
  * @Author: zhongshibo
  * @Date: 2021/4/27 15:06
  */
